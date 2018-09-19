@@ -21,7 +21,7 @@ Para acessar as apresentações:
 
 Para acessar os códigos desenvolvidos:
 
-[Timer 0] (dia2/TIMER0)
+[Timer 0](dia2/TIMER0)
 
 [Conversor Analógico Digital](dia2/ADC)
 
